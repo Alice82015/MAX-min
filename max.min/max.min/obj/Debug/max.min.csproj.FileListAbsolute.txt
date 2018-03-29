@@ -1,0 +1,6 @@
+C:\Git\max.min\max.min\max.min\bin\Debug\max.min.exe.config
+C:\Git\max.min\max.min\max.min\bin\Debug\max.min.exe
+C:\Git\max.min\max.min\max.min\bin\Debug\max.min.pdb
+C:\Git\max.min\max.min\max.min\obj\Debug\max.min.csprojResolveAssemblyReference.cache
+C:\Git\max.min\max.min\max.min\obj\Debug\max.min.exe
+C:\Git\max.min\max.min\max.min\obj\Debug\max.min.pdb
